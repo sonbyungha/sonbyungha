@@ -36,8 +36,9 @@
          width="226">
   </p>
 
+<p align="center">
 <img title="ex7" src="./sample/ex7.jpg" alt="ex7.jpg" data-align="center" width="226">
-
+</p>
 - :seedling: 경진대회 참여
 
 <img title="" src="./sample/team.jpg" alt="team.jpg" data-align="center" width="408">
