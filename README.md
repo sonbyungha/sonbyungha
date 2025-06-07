@@ -22,7 +22,7 @@
 
 ### [경험]
 
-- :seedling: 간단한 모바일 프로그래밍 어플 제작
+- :seedling: 간단한 모바일 프로그래밍 어플 제작 <br>
 프로그램은 https://github.com/sonbyungha/phone_app_01 참고
   
   <p align="center">
