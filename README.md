@@ -23,6 +23,7 @@
 ### [경험]
 
 - :seedling: 간단한 모바일 프로그래밍 어플 제작
+프로그램은 https://github.com/sonbyungha/phone_app_01 참고
   
   <p align="center">
     <img title="ex1" src="./sample/ex1.jpg" alt="ex1.jpg" data-align="center"         width="226">
